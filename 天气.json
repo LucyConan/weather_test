@@ -1,0 +1,30 @@
+{
+    "cityid":"101010100",
+    "date":"2020-07-23",
+    "week":"星期四",
+    "update_time":"2020-07-23 15:50:49",
+    "city":"北京",
+    "cityEn":"beijing",
+    "country":"中国",
+    "countryEn":"China",
+    "wea":"多云",
+    "wea_img":"yun",
+    "tem":"32",
+    "tem1":"34",
+    "tem2":"22",
+    "win":"东风",
+    "win_speed":"2级",
+    "win_meter":"小于12km/h",
+    "humidity":"39%",
+    "visibility":"25.92km",
+    "pressure":"1003",
+    "air":"93",
+    "air_pm25":"93",
+    "air_level":"良",
+    "air_tips":"空气好，可以外出活动，除极少数对污染物特别敏感的人群以外，对公众没有危害！",
+    "alarm":{
+        "alarm_type":"",
+        "alarm_level":"",
+        "alarm_content":""
+    }
+}
